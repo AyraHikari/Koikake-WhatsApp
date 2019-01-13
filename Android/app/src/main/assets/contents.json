@@ -1,0 +1,118 @@
+{
+  "android_play_store_link": "https://play.google.com/store/apps/details?id=me.ayra.warmlady",
+  "ios_app_store_link": "",
+  "sticker_packs": [
+    {
+      "identifier": "1",
+      "name": "Koikake",
+      "publisher": "Ayra Hikari",
+      "tray_image_file": "Tray_Koikake.png",
+      "publisher_email":"ayrahikari@gmail.com",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "koikake1.webp",
+          "emojis": ["😯","😮"]
+        },
+        {
+          "image_file": "koikake2.webp",
+          "emojis": ["🙄","🤔"]
+        },
+        {
+          "image_file": "koikake3.webp",
+          "emojis": ["😕","😟"]
+        },
+        {
+          "image_file": "koikake4.webp",
+          "emojis": ["😕","😠"]
+        },
+        {
+          "image_file": "koikake5.webp",
+          "emojis": ["😕","😦"]
+        },
+        {
+          "image_file": "koikake6.webp",
+          "emojis": ["😅","😄"]
+        },
+        {
+          "image_file": "koikake7.webp",
+          "emojis": ["😰","😨"]
+        },
+        {
+          "image_file": "koikake8.webp",
+          "emojis": ["😄","😃"]
+        },
+        {
+          "image_file": "koikake9.webp",
+          "emojis": ["😅","😁"]
+        },
+        {
+          "image_file": "koikake10.webp",
+          "emojis": ["😕","😒"]
+        },
+        {
+          "image_file": "koikake11.webp",
+          "emojis": ["😵","🥴"]
+        },
+        {
+          "image_file": "koikake12.webp",
+          "emojis": ["😥","😰"]
+        },
+        {
+          "image_file": "koikake13.webp",
+          "emojis": ["🙂","🙃"]
+        },
+        {
+          "image_file": "koikake14.webp",
+          "emojis": ["🤔","😕"]
+        },
+        {
+          "image_file": "koikake15.webp",
+          "emojis": ["😥","😓"]
+        },
+        {
+          "image_file": "koikake16.webp",
+          "emojis": ["😃","😄"]
+        },
+        {
+          "image_file": "koikake17.webp",
+          "emojis": ["😒","😟"]
+        },
+        {
+          "image_file": "koikake18.webp",
+          "emojis": ["😅","😓"]
+        },
+        {
+          "image_file": "koikake19.webp",
+          "emojis": ["😠","😩"]
+        },
+        {
+          "image_file": "koikake20.webp",
+          "emojis": ["😄","😁"]
+        },
+        {
+          "image_file": "koikake21.webp",
+          "emojis": ["😖","😣"]
+        },
+        {
+          "image_file": "koikake22.webp",
+          "emojis": ["😯","😦"]
+        },
+        {
+          "image_file": "koikake23.webp",
+          "emojis": ["😒","😕"]
+        },
+        {
+          "image_file": "koikake24.webp",
+          "emojis": ["😏","😌"]
+        },
+        {
+          "image_file": "koikake25.webp",
+          "emojis": ["😃","😏"]
+        }
+      ]
+    }
+  ]
+}
